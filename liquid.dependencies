@@ -1,0 +1,32 @@
+[
+ {
+    "remote": "gh",
+    "repository": "Flyhalf205/android_kernel_htc_msm8960",
+    "target_path": "kernel/htc/msm8960",
+    "revision": "cm-11.0"
+ },
+ {
+    "remote": "cm",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "cm-11.0"
+ },
+ {
+    "remote": "gh",
+    "repository": "Flyhalf205/android_device_htc_t6-common",
+    "target_path": "device/htc/t6-common",
+    "revision": "cm-11.0"
+ },
+ {
+    "remote": "lsd",
+    "repository": "android_device_htc_msm8960-common",
+    "target_path": "device/htc/msm8960-common",
+    "revision": "kitkat"
+ },
+ {
+    "remote": "ls",
+    "repository": "android_vendor_htc",
+    "target_path": "vendor/htc",
+    "revision": "kitkat"
+ }
+]
