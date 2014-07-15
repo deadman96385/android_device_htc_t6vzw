@@ -1,4 +1,4 @@
-$(call inherit-product, vendor/liquid/config/common_full_phone.mk)
+$(call inherit-product, vendor/liquid/config/common_phone.mk)
 
 $(call inherit-product, vendor/liquid/config/nfc_enhanced.mk)
 
